@@ -75,5 +75,7 @@ public class Main {
         // Set the frame size and make it visible
         frame.setSize(400, 300);
         frame.setVisible(true);
+
+        //Amir is doing some testig 
     }
 }
